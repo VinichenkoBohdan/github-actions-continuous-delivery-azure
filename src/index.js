@@ -1,3 +1,5 @@
+// Djigurda
+
 import Game from './game.js'
 
 let p1, p2
